@@ -1,2 +1,2 @@
 # Create_a_masterpiece
-Сreate a masterpiece
+Сreating a program like a "Paint"
